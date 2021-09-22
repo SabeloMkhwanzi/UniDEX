@@ -1,39 +1,19 @@
-# UniDEX - 150 lines of ``JavaScript`` codes plus ``Html`` and ``Css`` will give UniSwap like DEX
+# UniDEX - UniSwap like Dex
 
-### :sunglasses: Another cool web Application with the aim to keep you updated when it comes to Crypto world.
+#### DEX Exchange more commonly known as fast, secure and reliable decentralized trading platform focused on supported digital assets
 
-### Site Preview
-![Cryptoverse](https://github.com/SabeloMkhwanzi/CryptoWorld/blob/main/cryptoworld.jpg)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4993f1-e6a8-47df-b9e4-408478c711b8/deploy-status)](https://cryptoworldspace.netlify.app/)
+#### This 150 lines of ``JavaScript`` codes plus ``Html`` and ``Css`` will give UniSwap like DEX.
 
 ### Features
- :zap: Fully Responsive\
- :zap: React.js\
- :zap: Rapaid API\
- :zap: Chart.js\
- :zap: Redux Toolkit\
- :zap: Ant-Design
+ * Fully Responsive 
+ * Html, Css, JavaScript 
+ * Moralis Server API 
+ * Moralis 1nch Plugin 
+ * Metamask Authenticate 
+ * Token Swap
 
 ### Lesson learned on this project
-* Advanced React best practices.
-* Understanding State Management using Redux Toolkit.
-* Fetching data from multiple sources using RapidAPI.
-* Using Ant-design to build the UI
-* Creating charts using Chart.js.  
-
-### App Section
-:arrow_forward: Home Landing Page\
-:arrow_forward: Cryptocurrencies\
-:arrow_forward: Exchanges\
-:arrow_forward: News 
-
-### Setup 
-#### To run this project, Install using npm:
-
-```
-   $ git clone gh repo clone SabeloMkhwanzi/CryptoWorld
-   $ cd CryptoWorld
-   $ npm install
-   $ npm start
-   ```
+* Fast and simplest way to build Dapp using Moralis SDK.
+* Using Moralis and 1nch plugin to fetch data swap to token.
+  
+### Happy coding...:sunglasses:
