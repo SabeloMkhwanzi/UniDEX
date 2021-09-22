@@ -1,6 +1,6 @@
 # UniDEX - UniSwap like Dex
 
-#### DEX Exchange more commonly known as fast, secure and reliable decentralized trading platform focused on supported digital assets
+#### DEX Exchange more commonly known as a fast, secure, and reliable decentralized trading platform focused on supported digital assets
 
 #### This 150 lines of ``JavaScript`` codes plus ``Html`` and ``Css`` will give UniSwap like DEX.
 
